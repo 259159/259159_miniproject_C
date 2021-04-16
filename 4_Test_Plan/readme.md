@@ -1,5 +1,5 @@
 
-Test Plan
+Test_Plan
 
 |Test ID | Description                     | Exp Output                | Actual Output              | Type of Test      |
 |:------:|:-------------------------------:|:-------------------------:|:--------------------------:|:-----------------:|
